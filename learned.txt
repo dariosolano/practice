@@ -1,2 +1,3 @@
 Thing contains things I learned yestaerday.
 
+I learned tat git is confusing
